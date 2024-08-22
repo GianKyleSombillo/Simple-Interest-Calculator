@@ -1,0 +1,14 @@
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.exe
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.deps.json
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.runtimeconfig.json
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.dll
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\bin\Debug\net8.0\SimpleInterestCalculator.pdb
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.AssemblyInfoInputs.cache
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.AssemblyInfo.cs
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.dll
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\refint\SimpleInterestCalculator.dll
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.pdb
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\SimpleInterestCalculator.genruntimeconfig.cache
+C:\Users\kylegian\OneDrive\Documents\Simple-Interest-Calculator\SimpleInterestCalculator\obj\Debug\net8.0\ref\SimpleInterestCalculator.dll
